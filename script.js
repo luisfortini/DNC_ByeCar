@@ -8,7 +8,7 @@ let detImg = document.getElementById('image')
 
 hideDetalhes()
 
-let dadosMoto = [
+const dadosMoto = [
   {
     index:0,
     title:"Scooter Elétrica Voltz EV1",
